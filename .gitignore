@@ -9,6 +9,7 @@
 /[Aa]ssets/AssetStoreTools*
 /[Ll]ocal[Cc]ache/
 /[Uu]nityGenerated/
+/[Uu]serSettings/
 
 #IDEs
 [Aa]ssets/Plugins/Editor/JetBrains*
@@ -36,6 +37,7 @@
 *.opendb
 *.VC.db
 
+#Meta files
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
@@ -43,10 +45,8 @@
 #Builds and crash reports
 sysinfo.txt
 Assets/StreamingAssets/crashlytics-build.properties
-
 *.apk
 *.unitypackage
-
 crashlytics-build.properties
 
 #Miscellaneous
